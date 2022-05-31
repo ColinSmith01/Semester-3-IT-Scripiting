@@ -1,0 +1,3 @@
+@ECHO OFF
+
+ECHO Hello %1
